@@ -18,6 +18,15 @@ I enjoy **coding, solving logical problems, and exploring how technology can sim
 - 📜 Engaging in mini-projects & certification courses  
 
 ---
+## 📂 **Projects**
+##### Here are some of my works and learning projects:
+##### - 🤖**azura**→a  working ai which can acess what u show in front of you and speak.
+##### - 🎮 **Number Guessing Game** → Fun mini-game built in Python.  
+##### - 🌐 **Portfolio Website** → A personal portfolio site showcasing my work and skills.  
+##### - 📊 **Student Database System** → Basic CRUD project using Python & SQLite.  
+
+##### *(More projects coming soon as I continue learning!)*  
+---
 
 ## 🎯 **My Goal**
 To become a skilled and confident **software developer** who creates efficient solutions and contributes to **meaningful, innovative projects.**
